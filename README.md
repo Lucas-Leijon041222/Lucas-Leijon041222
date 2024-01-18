@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **N/A**
 
-- 🤝 I’m looking for help with **Everything feel free to point out any issuce in my code it would help he loads**
+- 🤝 I’m looking for help with **Currently im working on a repository called "Sending-data-to-database" and im having problems getting it to work correctly so help with that would be very much appreciated** [https://github.com/Lucas-Leijon041222/Sending-data-to-database)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Leijon041222?tab=repositories)
   
