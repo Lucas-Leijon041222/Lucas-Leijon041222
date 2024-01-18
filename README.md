@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Responsiv-sidmall](https://github.com/lilFoxxy/-Responsiv-sidmall)
 
-- 🌱 I’m currently learning **HTML, Java Script, CSS, Python**
+- 🌱 I’m currently learning **HTML, Java Script, CSS, Python, PHP, SQL**
 
 - 👯 I’m looking to collaborate on **N/A**
 
