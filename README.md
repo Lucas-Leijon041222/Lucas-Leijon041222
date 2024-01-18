@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilfoxxy" alt="lilfoxxy" /></a> </p>
 
-- 🔭 I’m currently working on [Responsiv-sidmall](https://github.com/lilFoxxy/-Responsiv-sidmall)
+- 🔭 I’m currently working on [https://github.com/Lucas-Leijon041222/Sending-data-to-database)
 
 - 🌱 I’m currently learning **HTML, Java Script, CSS, Python, PHP, SQL**
 
