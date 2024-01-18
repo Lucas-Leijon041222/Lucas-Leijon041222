@@ -13,8 +13,8 @@
 
 - 🤝 I’m looking for help with **N/A**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lilFoxxy?tab=projects](https://github.com/lilFoxxy?tab=projects)
-
+- 👨‍💻 All of my projects are available at [https://github.com/Lucas-Leijon041222?tab=repositories)
+  
 - 💬 Ask me about **Most beginner stuff with in HTML, Java Script and CSS**
 
 - 📫 How to reach me **lucas.leijon2014@gmail.com**
