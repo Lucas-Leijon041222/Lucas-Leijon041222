@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **HTML, Java Script, CSS, Python, PHP, SQL**
 
-- 👯 I’m looking to collaborate on **N/A**
+- 👯 I’m looking to collaborate on **almost anything, I'm looking to learn as much as I can and working together can teach me loads of things**
 
 - 🤝 I’m looking for help with [https://github.com/Lucas-Leijon041222/Sending-data-to-database) **Currently im working on this repository and im having problems getting it to work correctly so help with that would be very much appreciated** 
 
