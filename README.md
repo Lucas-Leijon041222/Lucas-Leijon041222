@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **N/A**
 
-- 🤝 I’m looking for help with **N/A**
+- 🤝 I’m looking for help with **Everything feel free to point out any issuce in my code it would help he loads**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Leijon041222?tab=repositories)
   
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **lucas.leijon2014@gmail.com**
 
-- ⚡ Fun fact **I am a student trying to learn as much as I can**
+- ⚡ Fun fact **I am a student trying to learn as much as I can and i hope to be a software developer in the future**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
