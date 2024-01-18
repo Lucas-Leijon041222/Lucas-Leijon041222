@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Most beginner stuff with in HTML, Java Script and CSS**
 
-- 📫 How to reach me **foxboy118@gmail.com**
+- 📫 How to reach me **lucas.leijon2014@gmail.com**
 
 - ⚡ Fun fact **I am a student trying to learn as much as I can**
 
